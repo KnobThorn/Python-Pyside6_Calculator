@@ -1,2 +1,3 @@
 dist/* linguist-vendored
-build/* linguist-vendored
+build/** linguist-vendored
+*.spec linguist-vendored
